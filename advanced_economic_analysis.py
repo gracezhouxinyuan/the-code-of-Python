@@ -1,7 +1,4 @@
-"""
-高级经济学分析模块：PSA + CEAC + Bootstrap
-基于可解释GAM模型的风险预测，进行成本效果分析、概率敏感性分析和Bootstrap推断。
-"""
+
 
 from __future__ import annotations
 
